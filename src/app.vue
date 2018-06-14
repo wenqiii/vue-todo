@@ -43,7 +43,7 @@
         right 0
         bottom 0
         background-color #999
-        opacity .9
+        opacity .7
         z-index -1
     }
 </style>
